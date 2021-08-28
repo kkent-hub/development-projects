@@ -1,0 +1,128 @@
+c:\users\kent\documents\visual studio 2012\Projects\TCC - Clinic Information System\TCC - Clinic Information System\bin\Debug\TCC - Clinic Information System.exe.config
+c:\users\kent\documents\visual studio 2012\Projects\TCC - Clinic Information System\TCC - Clinic Information System\bin\Debug\TCC - Clinic Information System.exe
+c:\users\kent\documents\visual studio 2012\Projects\TCC - Clinic Information System\TCC - Clinic Information System\bin\Debug\TCC - Clinic Information System.pdb
+c:\users\kent\documents\visual studio 2012\Projects\TCC - Clinic Information System\TCC - Clinic Information System\bin\Debug\TCC - Clinic Information System.xml
+c:\users\kent\documents\visual studio 2012\Projects\TCC - Clinic Information System\TCC - Clinic Information System\bin\Debug\MaterialSkin.dll
+c:\users\kent\documents\visual studio 2012\Projects\TCC - Clinic Information System\TCC - Clinic Information System\obj\Debug\TCC - Clinic Information System.vbprojResolveAssemblyReference.cache
+c:\users\kent\documents\visual studio 2012\Projects\TCC - Clinic Information System\TCC - Clinic Information System\obj\Debug\TCC___Clinic_Information_System.Resources.resources
+c:\users\kent\documents\visual studio 2012\Projects\TCC - Clinic Information System\TCC - Clinic Information System\obj\Debug\TCC - Clinic Information System.vbproj.GenerateResource.Cache
+c:\users\kent\documents\visual studio 2012\Projects\TCC - Clinic Information System\TCC - Clinic Information System\obj\Debug\TCC - Clinic Information System.exe
+c:\users\kent\documents\visual studio 2012\Projects\TCC - Clinic Information System\TCC - Clinic Information System\obj\Debug\TCC - Clinic Information System.xml
+c:\users\kent\documents\visual studio 2012\Projects\TCC - Clinic Information System\TCC - Clinic Information System\obj\Debug\TCC - Clinic Information System.pdb
+c:\users\kent\documents\visual studio 2012\Projects\TCC - Clinic Information System\TCC - Clinic Information System\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Kent\documents\visual studio 2012\Projects\TCC - Clinic Information System\TCC - Clinic Information System\obj\Debug\TCC___Clinic_Information_System.Dashboard.resources
+C:\Users\Kent\documents\visual studio 2012\Projects\TCC - Clinic Information System\TCC - Clinic Information System\obj\Debug\TCC___Clinic_Information_System.frm_main.resources
+C:\Users\Kent\documents\visual studio 2012\Projects\TCC - Clinic Information System\TCC - Clinic Information System\obj\Debug\TCC___Clinic_Information_System.Register.resources
+C:\Users\Kent\documents\visual studio 2012\Projects\TCC - Clinic Information System\TCC - Clinic Information System\bin\Debug\MetroFramework.dll
+C:\Users\Kent\documents\visual studio 2012\Projects\TCC - Clinic Information System\TCC - Clinic Information System\bin\Debug\mysql.data.dll
+D:\Project\TCC - Clinic Information System\TCC - Clinic Information System\bin\Debug\TCC - Clinic Information System.exe.config
+D:\Project\TCC - Clinic Information System\TCC - Clinic Information System\obj\Debug\TCC - Clinic Information System.exe
+D:\Project\TCC - Clinic Information System\TCC - Clinic Information System\obj\Debug\TCC - Clinic Information System.xml
+D:\Project\TCC - Clinic Information System\TCC - Clinic Information System\obj\Debug\TCC - Clinic Information System.pdb
+D:\Project\TCC - Clinic Information System\TCC - Clinic Information System\bin\Debug\TCC - Clinic Information System.exe
+D:\Project\TCC - Clinic Information System\TCC - Clinic Information System\bin\Debug\TCC - Clinic Information System.pdb
+D:\Project\TCC - Clinic Information System\TCC - Clinic Information System\bin\Debug\TCC - Clinic Information System.xml
+D:\Project\TCC - Clinic Information System\TCC - Clinic Information System\bin\Debug\Bunifu_UI_v1.5.3.dll
+D:\Project\TCC - Clinic Information System\TCC - Clinic Information System\bin\Debug\MaterialSkin.dll
+D:\Project\TCC - Clinic Information System\TCC - Clinic Information System\obj\Debug\TCC - Clinic Information System.vbprojResolveAssemblyReference.cache
+D:\Project\TCC - Clinic Information System\TCC - Clinic Information System\obj\Debug\TCC___Clinic_Information_System.Dashboard.resources
+D:\Project\TCC - Clinic Information System\TCC - Clinic Information System\obj\Debug\TCC___Clinic_Information_System.Register.resources
+D:\Project\TCC - Clinic Information System\TCC - Clinic Information System\obj\Debug\TCC___Clinic_Information_System.frm_main.resources
+D:\Project\TCC - Clinic Information System\TCC - Clinic Information System\obj\Debug\TCC___Clinic_Information_System.Resources.resources
+D:\Project\TCC - Clinic Information System\TCC - Clinic Information System\obj\Debug\TCC - Clinic Information System.vbproj.GenerateResource.Cache
+D:\Project\TCC - Clinic Information System\TCC - Clinic Information System\obj\Debug\TCC___Clinic_Information_System.Information.resources
+D:\Project\TCC - Clinic Information System\TCC - Clinic Information System\obj\Debug\TCC___Clinic_Information_System.mini_medical.resources
+D:\Project\TCC - Clinic Information System\TCC - Clinic Information System\obj\Debug\TCC___Clinic_Information_System.mini_present.resources
+D:\Project\TCC - Clinic Information System\TCC - Clinic Information System\obj\Debug\TCC___Clinic_Information_System.mini_other.resources
+D:\Project\TCC - Clinic Information System\TCC - Clinic Information System\obj\Debug\TCC___Clinic_Information_System.frm_referral.resources
+D:\Project\TCC - Clinic Information System\TCC - Clinic Information System\obj\Debug\TCC___Clinic_Information_System.Print_Referral.resources
+D:\Project\TCC - Clinic Information System\TCC - Clinic Information System\obj\Debug\TCC___Clinic_Information_System.Treatment.resources
+D:\Project\TCC - Clinic Information System\TCC - Clinic Information System\obj\Debug\TCC___Clinic_Information_System.mini_treatment.resources
+D:\Project\TCC - Clinic Information System\TCC - Clinic Information System\obj\Debug\TCC___Clinic_Information_System.Referral.resources
+D:\Project\TCC - Clinic Information System\TCC - Clinic Information System\obj\Debug\TCC___Clinic_Information_System.Report_Referral.resources
+D:\Project\TCC - Clinic Information System\TCC - Clinic Information System\obj\Debug\TCC___Clinic_Information_System.Print_Treatment.resources
+D:\Project\TCC - Clinic Information System\TCC - Clinic Information System\obj\Debug\TCC___Clinic_Information_System.mini_medical_01.resources
+D:\Project\TCC - Clinic Information System\TCC - Clinic Information System\obj\Debug\TCC___Clinic_Information_System.Medical.resources
+D:\Project\TCC - Clinic Information System\TCC - Clinic Information System\obj\Debug\TCC___Clinic_Information_System.frm_login.resources
+D:\Project\TCC - Clinic Information System\TCC - Clinic Information System\obj\Debug\TCC___Clinic_Information_System.frm_account.resources
+D:\Project\TCC - Clinic Information System\TCC - Clinic Information System\obj\Debug\TCC___Clinic_Information_System.print_web.resources
+D:\Project\TCC - Clinic Information System\TCC - Clinic Information System\obj\Debug\TCC___Clinic_Information_System.Cam.resources
+D:\Project\TCC - Clinic Information System\TCC - Clinic Information System\bin\Debug\AForge.dll
+D:\Project\TCC - Clinic Information System\TCC - Clinic Information System\bin\Debug\AForge.Video.DirectShow.dll
+D:\Project\TCC - Clinic Information System\TCC - Clinic Information System\bin\Debug\AForge.Video.dll
+D:\Project\TCC - Clinic Information System\TCC - Clinic Information System\bin\Debug\AForge.xml
+D:\Project\TCC - Clinic Information System\TCC - Clinic Information System\bin\Debug\AForge.Video.xml
+D:\Project\TCC - Clinic Information System\TCC - Clinic Information System\bin\Debug\AForge.Video.DirectShow.xml
+D:\Project\TCC - Clinic Information System\TCC - Clinic Information System\obj\Debug\TCC___Clinic_Information_System.Inventory.resources
+D:\Project\[VB.NET] Clinic Information System\TCC - Clinic Information System\bin\Debug\TCC - Clinic Information System.exe.config
+D:\Project\[VB.NET] Clinic Information System\TCC - Clinic Information System\obj\Debug\TCC - Clinic Information System.exe
+D:\Project\[VB.NET] Clinic Information System\TCC - Clinic Information System\obj\Debug\TCC - Clinic Information System.xml
+D:\Project\[VB.NET] Clinic Information System\TCC - Clinic Information System\obj\Debug\TCC - Clinic Information System.pdb
+D:\Project\[VB.NET] Clinic Information System\TCC - Clinic Information System\obj\Debug\TCC - Clinic Information System.vbprojResolveAssemblyReference.cache
+D:\Project\[VB.NET] Clinic Information System\TCC - Clinic Information System\obj\Debug\TCC___Clinic_Information_System.Cam.resources
+D:\Project\[VB.NET] Clinic Information System\TCC - Clinic Information System\obj\Debug\TCC___Clinic_Information_System.Print_Referral.resources
+D:\Project\[VB.NET] Clinic Information System\TCC - Clinic Information System\obj\Debug\TCC___Clinic_Information_System.Print_Treatment.resources
+D:\Project\[VB.NET] Clinic Information System\TCC - Clinic Information System\obj\Debug\TCC___Clinic_Information_System.Report_Referral.resources
+D:\Project\[VB.NET] Clinic Information System\TCC - Clinic Information System\obj\Debug\TCC___Clinic_Information_System.Dashboard.resources
+D:\Project\[VB.NET] Clinic Information System\TCC - Clinic Information System\obj\Debug\TCC___Clinic_Information_System.Information.resources
+D:\Project\[VB.NET] Clinic Information System\TCC - Clinic Information System\obj\Debug\TCC___Clinic_Information_System.Inventory.resources
+D:\Project\[VB.NET] Clinic Information System\TCC - Clinic Information System\obj\Debug\TCC___Clinic_Information_System.Medical.resources
+D:\Project\[VB.NET] Clinic Information System\TCC - Clinic Information System\obj\Debug\TCC___Clinic_Information_System.Referral.resources
+D:\Project\[VB.NET] Clinic Information System\TCC - Clinic Information System\obj\Debug\TCC___Clinic_Information_System.Register.resources
+D:\Project\[VB.NET] Clinic Information System\TCC - Clinic Information System\obj\Debug\TCC___Clinic_Information_System.Treatment.resources
+D:\Project\[VB.NET] Clinic Information System\TCC - Clinic Information System\obj\Debug\TCC___Clinic_Information_System.mini_medical.resources
+D:\Project\[VB.NET] Clinic Information System\TCC - Clinic Information System\obj\Debug\TCC___Clinic_Information_System.mini_medical_01.resources
+D:\Project\[VB.NET] Clinic Information System\TCC - Clinic Information System\obj\Debug\TCC___Clinic_Information_System.mini_other.resources
+D:\Project\[VB.NET] Clinic Information System\TCC - Clinic Information System\obj\Debug\TCC___Clinic_Information_System.mini_present.resources
+D:\Project\[VB.NET] Clinic Information System\TCC - Clinic Information System\obj\Debug\TCC___Clinic_Information_System.mini_treatment.resources
+D:\Project\[VB.NET] Clinic Information System\TCC - Clinic Information System\obj\Debug\TCC___Clinic_Information_System.print_web.resources
+D:\Project\[VB.NET] Clinic Information System\TCC - Clinic Information System\obj\Debug\TCC___Clinic_Information_System.frm_account.resources
+D:\Project\[VB.NET] Clinic Information System\TCC - Clinic Information System\obj\Debug\TCC___Clinic_Information_System.frm_login.resources
+D:\Project\[VB.NET] Clinic Information System\TCC - Clinic Information System\obj\Debug\TCC___Clinic_Information_System.frm_main.resources
+D:\Project\[VB.NET] Clinic Information System\TCC - Clinic Information System\obj\Debug\TCC___Clinic_Information_System.Resources.resources
+D:\Project\[VB.NET] Clinic Information System\TCC - Clinic Information System\obj\Debug\TCC___Clinic_Information_System.frm_referral.resources
+D:\Project\[VB.NET] Clinic Information System\TCC - Clinic Information System\obj\Debug\TCC - Clinic Information System.vbproj.GenerateResource.Cache
+D:\Project\[VB.NET] Clinic Information System\TCC - Clinic Information System\bin\Debug\TCC - Clinic Information System.exe
+D:\Project\[VB.NET] Clinic Information System\TCC - Clinic Information System\bin\Debug\TCC - Clinic Information System.pdb
+D:\Project\[VB.NET] Clinic Information System\TCC - Clinic Information System\bin\Debug\TCC - Clinic Information System.xml
+D:\Project\[VB.NET] Clinic Information System\TCC - Clinic Information System\bin\Debug\Bunifu_UI_v1.5.3.dll
+D:\Project\[VB.NET] Clinic Information System\TCC - Clinic Information System\bin\Debug\MaterialSkin.dll
+D:\Project\[VB.NET] Clinic Information System\TCC - Clinic Information System\bin\Debug\AForge.xml
+D:\Project\[VB.NET] Clinic Information System\TCC - Clinic Information System\bin\Debug\AForge.Video.xml
+D:\Project\[VB.NET] Clinic Information System\TCC - Clinic Information System\bin\Debug\AForge.Video.DirectShow.xml
+D:\Project\[VB.NET] Clinic Information System\Tagoloan Community College\TCC - Clinic Information System\bin\Debug\TCC - Clinic Information System.exe.config
+D:\Project\[VB.NET] Clinic Information System\Tagoloan Community College\TCC - Clinic Information System\obj\Debug\TCC - Clinic Information System.exe
+D:\Project\[VB.NET] Clinic Information System\Tagoloan Community College\TCC - Clinic Information System\obj\Debug\TCC - Clinic Information System.xml
+D:\Project\[VB.NET] Clinic Information System\Tagoloan Community College\TCC - Clinic Information System\obj\Debug\TCC - Clinic Information System.pdb
+D:\Project\[VB.NET] Clinic Information System\Tagoloan Community College\TCC - Clinic Information System\bin\Debug\TCC - Clinic Information System.exe
+D:\Project\[VB.NET] Clinic Information System\Tagoloan Community College\TCC - Clinic Information System\bin\Debug\TCC - Clinic Information System.pdb
+D:\Project\[VB.NET] Clinic Information System\Tagoloan Community College\TCC - Clinic Information System\bin\Debug\TCC - Clinic Information System.xml
+D:\Project\[VB.NET] Clinic Information System\Tagoloan Community College\TCC - Clinic Information System\bin\Debug\Bunifu_UI_v1.5.3.dll
+D:\Project\[VB.NET] Clinic Information System\Tagoloan Community College\TCC - Clinic Information System\bin\Debug\MaterialSkin.dll
+D:\Project\[VB.NET] Clinic Information System\Tagoloan Community College\TCC - Clinic Information System\bin\Debug\AForge.xml
+D:\Project\[VB.NET] Clinic Information System\Tagoloan Community College\TCC - Clinic Information System\bin\Debug\AForge.Video.xml
+D:\Project\[VB.NET] Clinic Information System\Tagoloan Community College\TCC - Clinic Information System\bin\Debug\AForge.Video.DirectShow.xml
+D:\Project\[VB.NET] Clinic Information System\Tagoloan Community College\TCC - Clinic Information System\obj\Debug\TCC - Clinic Information System.vbprojResolveAssemblyReference.cache
+D:\Project\[VB.NET] Clinic Information System\Tagoloan Community College\TCC - Clinic Information System\obj\Debug\TCC___Clinic_Information_System.Cam.resources
+D:\Project\[VB.NET] Clinic Information System\Tagoloan Community College\TCC - Clinic Information System\obj\Debug\TCC___Clinic_Information_System.Print_Referral.resources
+D:\Project\[VB.NET] Clinic Information System\Tagoloan Community College\TCC - Clinic Information System\obj\Debug\TCC___Clinic_Information_System.Print_Treatment.resources
+D:\Project\[VB.NET] Clinic Information System\Tagoloan Community College\TCC - Clinic Information System\obj\Debug\TCC___Clinic_Information_System.Report_Referral.resources
+D:\Project\[VB.NET] Clinic Information System\Tagoloan Community College\TCC - Clinic Information System\obj\Debug\TCC___Clinic_Information_System.Dashboard.resources
+D:\Project\[VB.NET] Clinic Information System\Tagoloan Community College\TCC - Clinic Information System\obj\Debug\TCC___Clinic_Information_System.Information.resources
+D:\Project\[VB.NET] Clinic Information System\Tagoloan Community College\TCC - Clinic Information System\obj\Debug\TCC___Clinic_Information_System.Inventory.resources
+D:\Project\[VB.NET] Clinic Information System\Tagoloan Community College\TCC - Clinic Information System\obj\Debug\TCC___Clinic_Information_System.Medical.resources
+D:\Project\[VB.NET] Clinic Information System\Tagoloan Community College\TCC - Clinic Information System\obj\Debug\TCC___Clinic_Information_System.Referral.resources
+D:\Project\[VB.NET] Clinic Information System\Tagoloan Community College\TCC - Clinic Information System\obj\Debug\TCC___Clinic_Information_System.Register.resources
+D:\Project\[VB.NET] Clinic Information System\Tagoloan Community College\TCC - Clinic Information System\obj\Debug\TCC___Clinic_Information_System.Treatment.resources
+D:\Project\[VB.NET] Clinic Information System\Tagoloan Community College\TCC - Clinic Information System\obj\Debug\TCC___Clinic_Information_System.mini_medical.resources
+D:\Project\[VB.NET] Clinic Information System\Tagoloan Community College\TCC - Clinic Information System\obj\Debug\TCC___Clinic_Information_System.mini_medical_01.resources
+D:\Project\[VB.NET] Clinic Information System\Tagoloan Community College\TCC - Clinic Information System\obj\Debug\TCC___Clinic_Information_System.mini_other.resources
+D:\Project\[VB.NET] Clinic Information System\Tagoloan Community College\TCC - Clinic Information System\obj\Debug\TCC___Clinic_Information_System.mini_present.resources
+D:\Project\[VB.NET] Clinic Information System\Tagoloan Community College\TCC - Clinic Information System\obj\Debug\TCC___Clinic_Information_System.mini_treatment.resources
+D:\Project\[VB.NET] Clinic Information System\Tagoloan Community College\TCC - Clinic Information System\obj\Debug\TCC___Clinic_Information_System.print_web.resources
+D:\Project\[VB.NET] Clinic Information System\Tagoloan Community College\TCC - Clinic Information System\obj\Debug\TCC___Clinic_Information_System.frm_account.resources
+D:\Project\[VB.NET] Clinic Information System\Tagoloan Community College\TCC - Clinic Information System\obj\Debug\TCC___Clinic_Information_System.frm_login.resources
+D:\Project\[VB.NET] Clinic Information System\Tagoloan Community College\TCC - Clinic Information System\obj\Debug\TCC___Clinic_Information_System.frm_main.resources
+D:\Project\[VB.NET] Clinic Information System\Tagoloan Community College\TCC - Clinic Information System\obj\Debug\TCC___Clinic_Information_System.Resources.resources
+D:\Project\[VB.NET] Clinic Information System\Tagoloan Community College\TCC - Clinic Information System\obj\Debug\TCC___Clinic_Information_System.frm_referral.resources
+D:\Project\[VB.NET] Clinic Information System\Tagoloan Community College\TCC - Clinic Information System\obj\Debug\TCC - Clinic Information System.vbproj.GenerateResource.Cache
